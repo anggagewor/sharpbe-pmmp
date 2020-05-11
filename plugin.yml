@@ -1,0 +1,6 @@
+---
+name: Sharpbe
+version: 0.0.1
+main: anggagewor\Sharpbe\Main
+api: 3.12.0
+...

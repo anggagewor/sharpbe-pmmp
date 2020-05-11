@@ -1,0 +1,8 @@
+database:
+  driver: mysql
+  host: 127.0.0.1
+  user: root
+  password: root
+  name: sharpbe
+  charset: utf8
+  prefix: null
